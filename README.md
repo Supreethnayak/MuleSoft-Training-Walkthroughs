@@ -6,3 +6,6 @@ Link : https://github.com/Supreethnayak/Mulesoft-Training-Module-3/blob/main/ame
 
 ## Module 4
 training4-american-ws: https://drive.google.com/file/d/1gbKFNucPVHuiAqupszQhDgUjhoc7Rzx3/view?usp=sharing
+
+## Module 5
+American Flights API Walkthrough 1.0.2: https://github.com/Supreethnayak/MuleSoft-Training-Walkthroughs/blob/main/american-flight-api-revision-1.0.2-raml.zip
